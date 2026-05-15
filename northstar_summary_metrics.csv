@@ -1,0 +1,7 @@
+metric,value
+late_rate,0.348
+failed_rate,0.1056
+override_rate,0.4408
+service_quality_issue_rate,0.5816
+average_delay_hours,2.3263780673615915
+average_order_value,91.05051999999999
