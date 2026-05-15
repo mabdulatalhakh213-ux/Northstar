@@ -1,0 +1,9 @@
+"pickup_zone","total_orders","avg_order_value","avg_route_distance","avg_overrides","avg_rating"
+"Airport",144,103.89,28.46,1.81,3.98
+"Central",158,85.39,12.09,1.62,3.62
+"West",155,88.27,12.63,0.81,3.9
+"East",207,91.77,12.05,0.79,3.91
+"Ctr",80,94.5,11.57,0.73,3.43
+"Riverside",151,85.34,11.65,0.73,3.86
+"North",174,91.03,11.23,0.7,3.9
+"South",181,90.58,12.26,0.69,4.05
